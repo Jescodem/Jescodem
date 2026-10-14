@@ -40,6 +40,20 @@ Aplicación web para agregar, consultar, editar y eliminar contactos con **Java,
 
 Proyecto web con módulos de blog y portafolio, estructura Django y plantillas HTML.
 
+## Galería de proyectos y referencias
+
+### Dashboard de entradas y alarmas
+
+Vista del proyecto en **modo simulación**, con un edificio de prueba: estado de puerta/cochera, tiempo de apertura y seguimiento de alertas. La imagen utiliza datos de demostración.
+
+<img src="./assets/dashboard-demo.png" alt="Dashboard de entradas en modo simulación con un edificio de prueba" width="100%" />
+
+### Laboratorio de redes · Packet Tracer
+
+Captura del entorno utilizado en el chat de un ejercicio EIGRP. Se presenta como **referencia del entorno de trabajo**, no como una topología terminada ni como una herramienta desarrollada por mí.
+
+<img src="./assets/packet-tracer-referencia.png" alt="Entorno Cisco Packet Tracer con una herramienta de automatización de laboratorio" width="100%" />
+
 ## En lo que trabajo
 
 Integración de dispositivos, configuración centralizada, monitoreo de eventos y herramientas de gestión. Los proyectos operativos se mantienen en repositorios privados.
